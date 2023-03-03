@@ -1,0 +1,15 @@
+C:\Users\maxmo\OneDrive\Documents\###pairprog\Pairprogramming\Pairprogramming\Pairprogramming\bin\Debug\net6.0\Pairprogramming.exe
+C:\Users\maxmo\OneDrive\Documents\###pairprog\Pairprogramming\Pairprogramming\Pairprogramming\bin\Debug\net6.0\Pairprogramming.deps.json
+C:\Users\maxmo\OneDrive\Documents\###pairprog\Pairprogramming\Pairprogramming\Pairprogramming\bin\Debug\net6.0\Pairprogramming.runtimeconfig.json
+C:\Users\maxmo\OneDrive\Documents\###pairprog\Pairprogramming\Pairprogramming\Pairprogramming\bin\Debug\net6.0\Pairprogramming.dll
+C:\Users\maxmo\OneDrive\Documents\###pairprog\Pairprogramming\Pairprogramming\Pairprogramming\bin\Debug\net6.0\Pairprogramming.pdb
+C:\Users\maxmo\OneDrive\Documents\###pairprog\Pairprogramming\Pairprogramming\Pairprogramming\obj\Debug\net6.0\Pairprogramming.csproj.AssemblyReference.cache
+C:\Users\maxmo\OneDrive\Documents\###pairprog\Pairprogramming\Pairprogramming\Pairprogramming\obj\Debug\net6.0\Pairprogramming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxmo\OneDrive\Documents\###pairprog\Pairprogramming\Pairprogramming\Pairprogramming\obj\Debug\net6.0\Pairprogramming.AssemblyInfoInputs.cache
+C:\Users\maxmo\OneDrive\Documents\###pairprog\Pairprogramming\Pairprogramming\Pairprogramming\obj\Debug\net6.0\Pairprogramming.AssemblyInfo.cs
+C:\Users\maxmo\OneDrive\Documents\###pairprog\Pairprogramming\Pairprogramming\Pairprogramming\obj\Debug\net6.0\Pairprogramming.csproj.CoreCompileInputs.cache
+C:\Users\maxmo\OneDrive\Documents\###pairprog\Pairprogramming\Pairprogramming\Pairprogramming\obj\Debug\net6.0\Pairprogramming.dll
+C:\Users\maxmo\OneDrive\Documents\###pairprog\Pairprogramming\Pairprogramming\Pairprogramming\obj\Debug\net6.0\refint\Pairprogramming.dll
+C:\Users\maxmo\OneDrive\Documents\###pairprog\Pairprogramming\Pairprogramming\Pairprogramming\obj\Debug\net6.0\Pairprogramming.pdb
+C:\Users\maxmo\OneDrive\Documents\###pairprog\Pairprogramming\Pairprogramming\Pairprogramming\obj\Debug\net6.0\Pairprogramming.genruntimeconfig.cache
+C:\Users\maxmo\OneDrive\Documents\###pairprog\Pairprogramming\Pairprogramming\Pairprogramming\obj\Debug\net6.0\ref\Pairprogramming.dll

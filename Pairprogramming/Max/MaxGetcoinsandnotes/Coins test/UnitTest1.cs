@@ -11,7 +11,7 @@ namespace Coins_test
         [Test]
         [TestCase(20, "£20: 1, £10: 0, £5: 0, £1: 0, 50p: 0, 20p: 0, 10p: 0, 5p: 0, 2p: 0, 1p: 0")]
         [TestCase(149.89, "£20: 7, £10: 0, £5: 1, £1: 4, 50p: 1, 20p: 1, 10p: 1, 5p: 1, 2p: 1, 1p: 1")]
-        [TestCase(4549.69, "£20: 227, £10: 0, £5: 1, £1: 4, 50p: 1, 20p: 0, 10p: 1, 5p: 1, 2p: 1, 1p: 1")]
+        [TestCase(4549.69, "£20: 227, £10: 0, £5: 1, £1: 4, 50p: 1, 20p: 0, 10p: 1, 5p: 1, 2p: 2, 1p: 0")]
         public void GiveCoinsReturnsCorrectChange(double coins, string result)
         {
 
