@@ -1,0 +1,15 @@
+C:\Users\maxmo\OneDrive\Documents\###pairprog\Pairprogramming\Pairprogramming\Max\MaxGetcoinsandnotes\MaxGetcoinsandnotes\bin\Debug\net6.0\MaxGetcoinsandnotes.exe
+C:\Users\maxmo\OneDrive\Documents\###pairprog\Pairprogramming\Pairprogramming\Max\MaxGetcoinsandnotes\MaxGetcoinsandnotes\bin\Debug\net6.0\MaxGetcoinsandnotes.deps.json
+C:\Users\maxmo\OneDrive\Documents\###pairprog\Pairprogramming\Pairprogramming\Max\MaxGetcoinsandnotes\MaxGetcoinsandnotes\bin\Debug\net6.0\MaxGetcoinsandnotes.runtimeconfig.json
+C:\Users\maxmo\OneDrive\Documents\###pairprog\Pairprogramming\Pairprogramming\Max\MaxGetcoinsandnotes\MaxGetcoinsandnotes\bin\Debug\net6.0\MaxGetcoinsandnotes.dll
+C:\Users\maxmo\OneDrive\Documents\###pairprog\Pairprogramming\Pairprogramming\Max\MaxGetcoinsandnotes\MaxGetcoinsandnotes\bin\Debug\net6.0\MaxGetcoinsandnotes.pdb
+C:\Users\maxmo\OneDrive\Documents\###pairprog\Pairprogramming\Pairprogramming\Max\MaxGetcoinsandnotes\MaxGetcoinsandnotes\obj\Debug\net6.0\MaxGetcoinsandnotes.csproj.AssemblyReference.cache
+C:\Users\maxmo\OneDrive\Documents\###pairprog\Pairprogramming\Pairprogramming\Max\MaxGetcoinsandnotes\MaxGetcoinsandnotes\obj\Debug\net6.0\MaxGetcoinsandnotes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxmo\OneDrive\Documents\###pairprog\Pairprogramming\Pairprogramming\Max\MaxGetcoinsandnotes\MaxGetcoinsandnotes\obj\Debug\net6.0\MaxGetcoinsandnotes.AssemblyInfoInputs.cache
+C:\Users\maxmo\OneDrive\Documents\###pairprog\Pairprogramming\Pairprogramming\Max\MaxGetcoinsandnotes\MaxGetcoinsandnotes\obj\Debug\net6.0\MaxGetcoinsandnotes.AssemblyInfo.cs
+C:\Users\maxmo\OneDrive\Documents\###pairprog\Pairprogramming\Pairprogramming\Max\MaxGetcoinsandnotes\MaxGetcoinsandnotes\obj\Debug\net6.0\MaxGetcoinsandnotes.csproj.CoreCompileInputs.cache
+C:\Users\maxmo\OneDrive\Documents\###pairprog\Pairprogramming\Pairprogramming\Max\MaxGetcoinsandnotes\MaxGetcoinsandnotes\obj\Debug\net6.0\MaxGetcoinsandnotes.dll
+C:\Users\maxmo\OneDrive\Documents\###pairprog\Pairprogramming\Pairprogramming\Max\MaxGetcoinsandnotes\MaxGetcoinsandnotes\obj\Debug\net6.0\refint\MaxGetcoinsandnotes.dll
+C:\Users\maxmo\OneDrive\Documents\###pairprog\Pairprogramming\Pairprogramming\Max\MaxGetcoinsandnotes\MaxGetcoinsandnotes\obj\Debug\net6.0\MaxGetcoinsandnotes.pdb
+C:\Users\maxmo\OneDrive\Documents\###pairprog\Pairprogramming\Pairprogramming\Max\MaxGetcoinsandnotes\MaxGetcoinsandnotes\obj\Debug\net6.0\MaxGetcoinsandnotes.genruntimeconfig.cache
+C:\Users\maxmo\OneDrive\Documents\###pairprog\Pairprogramming\Pairprogramming\Max\MaxGetcoinsandnotes\MaxGetcoinsandnotes\obj\Debug\net6.0\ref\MaxGetcoinsandnotes.dll
